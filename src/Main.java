@@ -17,23 +17,9 @@ public class Main {
                 createAndShowGUI();
             }
         });
-        tumblr = new Tumblr();
+        //tumblr = new Tumblr();
 
-        //hack to get things to wait before trying to access things that don't exist
-        while(true) {
-            try {
-                main.ready();
-                break;
-            }catch(Exception e){
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e1) {
-                    e1.printStackTrace();
-                }
-            }
-        }
-
-        main.setUsername(tumblr.getUsername());
+        //main.setUsername(tumblr.getUsername());
 
 
     }
