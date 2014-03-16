@@ -9,7 +9,7 @@ import java.util.List;
  * Created by moredhel on 16/03/14.
  */
 public class Tumblr {
-    private final client
+    private final JumblrClient client;
 
     public Tumblr(){
         client = new JumblrClient("IebX9kEVTuetnyjbb0IhmHZd1w23XluqhcFC2pgzife1DQIx74", "4aBInl4FyVruDOfaWOtkdPqlQfrSZ2UleWbBm6Y3Ez0VyEuTQB");

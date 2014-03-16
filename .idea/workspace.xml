@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8b7ccf0-2146-4efa-a204-88b71bddc33e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/classes/Tumblr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/forms/frmMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/classes/Tumblr.java" afterPath="$PROJECT_DIR$/src/classes/Tumblr.java" />
     </list>
     <ignored path="tumblr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,7 +84,7 @@
           <file leaf-file-name="Tumblr.java" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/classes/Tumblr.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="24" selection-start="209" selection-end="209" vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="616">
+                <state line="11" column="30" selection-start="215" selection-end="215" vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="616">
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -525,7 +522,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/Tumblr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="209" selection-end="209" vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="616">
+        <state line="11" column="30" selection-start="215" selection-end="215" vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="616">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
